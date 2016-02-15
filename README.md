@@ -1,12 +1,15 @@
 # Heart
 A simple game inspired by this [YouTube Video](https://www.youtube.com/watch?v=SqGx6LIkFqo)
 
-## Compilation
+## Linux
+
+### Compilation
 ```sh
 mkdir build && cd build && cmake .. && make
 ```
 
-## Playing
+### Playing
 ```sh
-cd build && ./heart
+cd build # Only if you're out of the build/ directory
+./heart
 ```
