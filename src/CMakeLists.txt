@@ -1,0 +1,7 @@
+set(SOURCE
+    ${CMAKE_CURRENT_SOURCE_DIR}/main.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/pugixml.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/HeartGame.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Randomizer.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Ring.cpp
+PARENT_SCOPE)
